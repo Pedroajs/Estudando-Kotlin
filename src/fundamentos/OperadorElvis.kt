@@ -9,6 +9,6 @@ fun main(args: Array<String>) {
     * com o elvis operator é possivel atribuir um valor padrao a uma variavel que não se
     * tenha certeza se tem valor. Evitando erros
     *
-    * 
+    *
     * */
 }
