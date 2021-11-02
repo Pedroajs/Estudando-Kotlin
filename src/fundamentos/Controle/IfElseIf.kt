@@ -5,7 +5,7 @@ fun main() {
 
 
     //Usando operador range
-    if (nota in 9..10) {
+    if (nota  in 9..10) {
         println("Fantástico")
     } else if (nota in 7..8) {
         println("Parabéns")
