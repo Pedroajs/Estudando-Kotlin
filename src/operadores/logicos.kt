@@ -1,0 +1,4 @@
+package operadores
+
+class logicos {
+}
